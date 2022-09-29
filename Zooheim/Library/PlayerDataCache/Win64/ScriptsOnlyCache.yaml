@@ -1,0 +1,1041 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - DayLight
+    - DeadWood
+    - DeerAgent
+    - DeerFAgent
+    - Field
+    - GiraffeAgent
+    - GiraffeFAgent
+    - Grass
+    - LionAgent
+    - LionFAgent
+    - PlayerController
+    - RabbitAgent
+    - RabbitFAgent
+    - UIText
+    - WolfAgent
+    - WolfFAgent
+    - Wood
+    - ZooheimEnvController
+    - ZooheimFoodProcessor
+    - ZooheimMeatScript
+    Unity.Barracuda.dll:
+    - Unity.Barracuda.NNModel
+    - Unity.Barracuda.NNModelData
+    Unity.ML-Agents.Editor.dll:
+    - Unity.MLAgents.Editor.AgentEditor
+    - Unity.MLAgents.Editor.BehaviorParametersEditor
+    Unity.ML-Agents.dll:
+    - Unity.MLAgents.DecisionRequester
+    - Unity.MLAgents.Policies.BehaviorParameters
+    - Unity.MLAgents.Sensors.RayPerceptionSensorComponent3D
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/ZooheimTest/Scene/FinalTest.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1546}
+    - Class: 114
+      Script: {instanceID: 1590}
+    - Class: 114
+      Script: {instanceID: 1814}
+    - Class: 114
+      Script: {instanceID: 2120}
+    - Class: 114
+      Script: {instanceID: 2176}
+    - Class: 114
+      Script: {instanceID: 2360}
+    - Class: 114
+      Script: {instanceID: 2536}
+    - Class: 114
+      Script: {instanceID: 2708}
+    - Class: 114
+      Script: {instanceID: 2798}
+    - Class: 114
+      Script: {instanceID: 2850}
+    - Class: 114
+      Script: {instanceID: 2964}
+    - Class: 114
+      Script: {instanceID: 3212}
+    - Class: 114
+      Script: {instanceID: 3316}
+    - Class: 114
+      Script: {instanceID: 3344}
+    - Class: 114
+      Script: {instanceID: 3504}
+    - Class: 114
+      Script: {instanceID: 3574}
+    - Class: 114
+      Script: {instanceID: 3596}
+    - Class: 114
+      Script: {instanceID: 3646}
+    - Class: 114
+      Script: {instanceID: 3676}
+    - Class: 114
+      Script: {instanceID: 3820}
+    - Class: 114
+      Script: {instanceID: 3824}
+    - Class: 114
+      Script: {instanceID: 3982}
+    - Class: 114
+      Script: {instanceID: 3986}
+    - Class: 114
+      Script: {instanceID: 4230}
+    - Class: 114
+      Script: {instanceID: 4340}
+    - Class: 114
+      Script: {instanceID: 4966}
+    - Class: 114
+      Script: {instanceID: 5252}
+    - Class: 114
+      Script: {instanceID: 5274}
+    - Class: 114
+      Script: {instanceID: 5458}
+    - Class: 114
+      Script: {instanceID: 5544}
+    - Class: 114
+      Script: {instanceID: 5782}
+    - Class: 114
+      Script: {instanceID: 5796}
+    - Class: 114
+      Script: {instanceID: 5918}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GiraffeAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 5d470960c5db2f9c229c37ff99d0996e
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents
+    className: Agent
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: Animals_WanderScriptEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 8214f1934370ba1e4dd13b41b088bed4
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: GridSensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LionAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 41e297c231f699948db64f04d5fba060
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents
+    className: MLAgentsSettings
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 712027b6018e1edbe4ae888e00c3ec28
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: Animal_AIStats
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: Animal_SurfaceRotation
+  - hash:
+      serializedVersion: 2
+      Hash: 90dd9a4b16cdabaed77a97d9469f2923
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Areas
+    className: TrainingAreaReplicator
+  - hash:
+      serializedVersion: 2
+      Hash: 712027b6018e1edbe4ae888e00c3ec28
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: AIStats
+  - hash:
+      serializedVersion: 2
+      Hash: 996fd7ea6510d55b74bee283a776abf5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Wood
+  - hash:
+      serializedVersion: 2
+      Hash: afc4db3efc6c62f33f0cd19f08aca6c7
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Policies
+    className: BehaviorParameters
+  - hash:
+      serializedVersion: 2
+      Hash: e2e664096ddf813ef918842c1a3057c7
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: AnimalAudioManager
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a3ea236b81667ce963577b016d4aef95
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: RayPerceptionSensorComponent2D
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 91d258529db2b5060a913f2afcea1a21
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 686b3497e8cc9456d6fb80c15d366347
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Integrations.Match3
+    className: Match3SensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_KillSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 94c1e0edf9a5bd7c53c0482b0312758b
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_animal
+  - hash:
+      serializedVersion: 2
+      Hash: c1220602ecca920490c0b15b630238e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WolfFAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_WanderManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: cd9d82b0cccbcfa2e89114c42f3012ae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DeadWood
+  - hash:
+      serializedVersion: 2
+      Hash: a41e763e1d687fd19e2446d7255a1f85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Feed
+  - hash:
+      serializedVersion: 2
+      Hash: e1237ad6386e516b14751d54c83d3471
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: RenderTextureSensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: cd0ecdca0166232906c6f2df9dddc3d3
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_StatsTable
+  - hash:
+      serializedVersion: 2
+      Hash: 63a57bc8b5696d5d871f8ef15ea2680a
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: RandomCharacterPlacer
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BaseAnimalAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 94c1e0edf9a5bd7c53c0482b0312758b
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_WanderScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: c6cfa009073283f594e9d1930fe04949
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DayLight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 6c12b002bde64ef2ecaaaa091fd06aa7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LionFAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 4e911433915684674eb30b798ed78a3e
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Demonstrations
+    className: DemonstrationRecorder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_AnimationControl
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 86fb71ef1baacbda8fbfa99517951402
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: AnimalWanderManager
+  - hash:
+      serializedVersion: 2
+      Hash: 36930db3116562932d730ec657bbfe20
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: RayPerceptionSensorComponent3D
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_SurfaceRotation
+  - hash:
+      serializedVersion: 2
+      Hash: 6b7677c4aaa7665a0964ff549bbb12a3
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents
+    className: DecisionRequester
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: c26301067d391b6272a7ffc5ea6cdc0a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Grass
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: e2e664096ddf813ef918842c1a3057c7
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_AudioManager
+  - hash:
+      serializedVersion: 2
+      Hash: d5f28ce8e0c770d633965c7d93922335
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Field
+  - hash:
+      serializedVersion: 2
+      Hash: fadefc6d9b7a2176c5ec724237ed7c5c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZooheimEnvController
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 947811fb1874e8cae582473f3af70981
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: BufferSensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: d8f892103572f88030c506867a578336
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RabbitFAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WolfAgent
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 6214b888ff4baa12d6273e4d49086cc9
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: ToggleEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_AnimSpeed
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 550cd92f36d03903a502911efc2e95c7
+    assemblyName: Unity.Barracuda.dll
+    namespaceName: Unity.Barracuda
+    className: NNModel
+  - hash:
+      serializedVersion: 2
+      Hash: da4cc51a02ce84afe2cecd27cfe6997a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 170829130b753e050044b9376a3988ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZooheimGrassScript
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 24e8fafa7b6c55c3f0c242742648d8e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIText
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 2f063511da0618e0040e466b847f259f
+    assemblyName: Unity.ML-Agents.Extensions.dll
+    namespaceName: Unity.MLAgents.Extensions.Sensors
+    className: RigidBodySensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 2cd31c0dbdb9d644f16baa3547a634ae
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: CameraSensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 90c3c28fb094217712ade8401876c495
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: Polyperfect_CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: de6653b77b7f9db78c4b2ae940236c2a
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: AnimalViewerManager
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 86fb71ef1baacbda8fbfa99517951402
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_WanderManager
+  - hash:
+      serializedVersion: 2
+      Hash: a41e763e1d687fd19e2446d7255a1f85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Meat
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1dc6b26a3ec21562bf7ad1970daf2f60
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: AnimalPlaySound
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 3149e68b62b82493254e1c995849f227
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: 
+    className: SpawnAnimals
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RabbitAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e840026e72ed468715ea43d8bff08258
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_RandomInt
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: SceneAnimatorController
+  - hash:
+      serializedVersion: 2
+      Hash: 2fff8f9abb48ad4a5c6aced77824fb14
+    assemblyName: Unity.ML-Agents.Extensions.dll
+    namespaceName: Unity.MLAgents.Extensions.Sensors
+    className: ArticulationBodySensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 61dbac790b12b5be29c60cdfe726810c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZooheimFoodProcessor
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 4f9c4e3bda828c1246340d411805b1c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GiraffeFAgent
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 170829130b753e050044b9376a3988ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZooheimMeatScript
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 6235526a5e1b58f13dbd7ca1d8edd1b4
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Sensors
+    className: VectorSensorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: e35e7183e89d279c3e0db1c6098b7d87
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Integrations.Match3
+    className: Match3ActuatorComponent
+  - hash:
+      serializedVersion: 2
+      Hash: abc609ba8dcca221864f71adc18f38c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DeerFAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 94c1e0edf9a5bd7c53c0482b0312758b
+    assemblyName: Polyperfect.Animals.dll
+    namespaceName: Polyperfect.Animals
+    className: Animal_WanderScript
+  - hash:
+      serializedVersion: 2
+      Hash: 94c1e0edf9a5bd7c53c0482b0312758b
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_animal2
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6a3e3a5c4773df25fc5e18b8b3a445
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DeerAgent
+  - hash:
+      serializedVersion: 2
+      Hash: 93334dd75a8fa1868d671e973ab3cfd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_WanderScriptEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 1dc6b26a3ec21562bf7ad1970daf2f60
+    assemblyName: Polyperfect.Common.dll
+    namespaceName: Polyperfect.Common
+    className: Common_PlaySound
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 422f48e4fe97392f35c9dde63be9e292
+    assemblyName: Unity.Barracuda.dll
+    namespaceName: Unity.Barracuda
+    className: NNModelData
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8c6e48ab23009638149489605a7da0ba
+    assemblyName: Unity.ML-Agents.dll
+    namespaceName: Unity.MLAgents.Demonstrations
+    className: DemonstrationSummary
+  platform: 19
+  scenePathNames:
+  - Assets/ZooheimTest/Scene/FinalTest.unity
+  playerPath: "C:/Users/user/Downloads/Zooheim/\uC2E4\uD589\uC6A9\uD3F4\uB354/Zooheim.exe"

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e6bdc332-25e1-2831-82c1-25d0441455a3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Animals", "Polyperfect.Animals.csproj", "{7409a0b9-9c65-e814-62bb-57d02a4c8a3d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Common", "Polyperfect.Common.csproj", "{3c9b3b5e-3a89-f689-e5d7-f5df4137a17e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e6bdc332-25e1-2831-82c1-25d0441455a3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6bdc332-25e1-2831-82c1-25d0441455a3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7409a0b9-9c65-e814-62bb-57d02a4c8a3d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7409a0b9-9c65-e814-62bb-57d02a4c8a3d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3c9b3b5e-3a89-f689-e5d7-f5df4137a17e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3c9b3b5e-3a89-f689-e5d7-f5df4137a17e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
